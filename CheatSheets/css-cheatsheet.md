@@ -252,6 +252,13 @@
 | `:root`                   | documents root element       |
 | `::selection`             | portion selected by user     |
 | `:target`                 | highlight active anchor      |
+| `:fullscreen `            | element which is in fullscreen                                 |
+| `:autofill`               |input autofill by browser                                       |
+| `:placeholder-shown`      |input element displaying placeholder text                       |
+| `:default`                |elements that are set of elements                               |
+| `:blank`                  |input element which is empty or other null input                |
+| `:scope`                  |elements that are reference point for selectors to match against|
+
 
 **[🔼Back to Top](#table-of-contents)**
 
